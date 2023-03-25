@@ -5,5 +5,10 @@
   "polygon":  109,
   "arbitrum": 110,
   "optimism": 111,
-  "fantom": 112
+  "fantom": 112,
+  "goerli": 10121,
+  "fuji": 10106,
+  "arbitrum-goerli": 10143,
+  "mumbai":10109,
+  "bsc-testnet":10102
 }

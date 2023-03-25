@@ -64,8 +64,10 @@ const config: HardhatUserConfig = {
             [ChainId.FUJI, {rpcIndex: 0}],
             [ChainId.MUMBAI, {rpcIndex: 0}],
             [ChainId.ARBITRUM_RINKEBY, {rpcIndex: 0}],
+            [ChainId.ARBITRUM_GOERLI, {rpcIndex: 0}],
             [ChainId.OPTIMISM_KOVAN, {rpcIndex: 0}],
-            [ChainId.FANTOM_TESTNET, {rpcIndex: 0}]
+            [ChainId.FANTOM_TESTNET, {rpcIndex: 0}],
+            [ChainId.GOERLI, {rpcIndex: 0}],
         ]),
 
         // note: setup a single rpc like this. (be sure to comment out the above)

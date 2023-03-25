@@ -1,25 +1,10 @@
 {
   "methodName": "setTrustedRemote",
   "mapName": "trustedRemoteLookup",
-  "ethereum": {
-    "address": ""
+  "arbitrum-goerli": {
+    "address": "0xD1435e6CC1A93635357B6968DcBF6cfA259722d1"
   },
-  "bsc": {
-    "address": ""
-  },
-  "avalanche": {
-    "address": ""
-  },
-  "polygon":  {
-    "address": ""
-  },
-  "arbitrum": {
-    "address": ""
-  },
-  "optimism": {
-    "address": ""
-  },
-  "fantom": {
-    "address": ""
+  "fuji": {
+    "address": "0xd0dB5c431D7B1bfdaF083092632B8aF575d7dd63"
   }
 }
